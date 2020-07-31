@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/clarahung/Documents/Deer-Diary/Deer Diary/WorldCollectionViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/clarahung/Documents/Deer-Diary/Deer Diary/WorldCollectionViewCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/CarouselEffect-Complete/Interests/Interest.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
